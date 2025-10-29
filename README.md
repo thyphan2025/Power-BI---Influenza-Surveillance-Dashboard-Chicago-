@@ -5,7 +5,7 @@ It provides insights into influenza testing, positivity, risk levels, subtypes, 
 ---
 
 ## Dataset
-- **Source:** [Influenza Surveillance Weekly - 0Historical](https://catalog.data.gov/dataset/influenza-surveillance-weekly)
+- **Source:** [Influenza Surveillance Weekly - Historical](https://catalog.data.gov/dataset/influenza-surveillance-weekly)
 - **Frequency:** Weekly historical influenza surveillance data  
 - **Time range:** 2015–2016 through 2023–2024 (9 flu seasons)
 - **Metrics include:**  
@@ -14,7 +14,7 @@ It provides insights into influenza testing, positivity, risk levels, subtypes, 
   - Influenza A subtypes (H1N1, H3N2, Not Subtyped)  
   - Risk level categories (Low, Increasing, Decreasing, High)  
   - ICU admissions and pediatric deaths
-For detailed descriptions of each column, see the [official data dictionary](https://data.cityofchicago.org/Health-Human-Services/Influenza-Surveillance-Weekly-Historical/6xmk-qk57/about_data).
+- For detailed descriptions of each column, see the [official data dictionary](https://data.cityofchicago.org/Health-Human-Services/Influenza-Surveillance-Weekly-Historical/6xmk-qk57/about_data).
 
 ---
 
